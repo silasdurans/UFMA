@@ -8,33 +8,21 @@ O repositório está dividido em quatro seções:
 
 ### 1. **Primeira Parte: Programas realizados durante o curso**
   
-   Nesta parte, você encontrará os programas desenvolvidos ao longo do curso, abordando tópicos como matrizes, vetores, e uso de estruturas de dados.
+  - Nesta parte, você encontrará os programas desenvolvidos ao longo do curso, abordando tópicos como matrizes, vetores, e uso de estruturas de dados.
    
 ### 2. **Segunda Parte: Exercícios da lista de atividades**
   
-   Aqui estão os programas baseados em exercícios propostos pelo professor e que foram resolvidos durante o semestre.
+  - Aqui estão os programas baseados em exercícios propostos pelo professor e que foram resolvidos durante o semestre.
    
 ### 3. **Terceira Parte: Programas de prova**
   
-   Esses programas são baseados nas questões de exames, abordando problemas mais desafiadores e complexos.
+  - Esses programas são baseados nas questões de exames, abordando problemas mais desafiadores e complexos.
    
 ### 4. **Extras: Programas para diversão ou protótipos**
   
-   Programas criados para testes, protótipos ou apenas para diversão, explorando conceitos alternativos.
-
-## Como Usar
-
-Para começar a explorar o conteúdo deste repositório, siga os passos abaixo:
-
-Comece a explorar o projeto:
-
-    git clone https://github.com/silasdurans/LPEE.git
-
-Navegue para o diretório do projeto:
-
-    cd LPEE
+  - Programas criados para testes, protótipos ou apenas para diversão, explorando conceitos alternativos.
 
 Tecnologias Usadas
-
-  - C: Linguagem de programação utilizada para o desenvolvimento dos programas.
-  - Git: Para versionamento de código e colaboração.
+   
+    C: Linguagem de programação utilizada para o desenvolvimento dos programas.
+    Git: Para versionamento de código e colaboração.
