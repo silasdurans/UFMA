@@ -1,0 +1,3 @@
+C:/Users/Silas/OneDrive/Documentos/BICT/LPEE/lacos/ex006/cmake-build-debug/CMakeFiles/ex006.dir
+C:/Users/Silas/OneDrive/Documentos/BICT/LPEE/lacos/ex006/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Silas/OneDrive/Documentos/BICT/LPEE/lacos/ex006/cmake-build-debug/CMakeFiles/rebuild_cache.dir
