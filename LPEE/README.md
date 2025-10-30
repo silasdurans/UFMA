@@ -20,7 +20,7 @@ O repositório está dividido em quatro seções:
    
 ### 4. **Extras: Programas para diversão ou protótipos**
   
-  - Programas criados para testes, protótipos ou apenas para diversão, explorando conceitos alternativos.
+  - Programas criados para testes, protótipos ou apenas para treinamento;
 
 Tecnologias Usadas
    
