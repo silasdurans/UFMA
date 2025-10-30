@@ -1,0 +1,3 @@
+C:/Users/Silas/OneDrive/Documentos/BICT/LPEE/des001/cmake-build-debug/CMakeFiles/des001.dir
+C:/Users/Silas/OneDrive/Documentos/BICT/LPEE/des001/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Silas/OneDrive/Documentos/BICT/LPEE/des001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
